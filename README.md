@@ -1,0 +1,2 @@
+# scalaz.org
+ Subdomain Takeover
